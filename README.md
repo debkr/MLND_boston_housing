@@ -1,7 +1,7 @@
 #MLND Project 1
 
 ##Boston House Prices
-Predictive Model using Supervised Machine Learning 
+Predictive Model Generation, Evaluation and Validation 
     
 Contents:
     
