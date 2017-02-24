@@ -1,9 +1,10 @@
-## MLND_boston_housing
-#Project Submission for MLND
+#MLND Project 1
 
-**Boston House Prices: supervised machine learning predictive model**
+##Boston House Prices
+Predictive Model using Supervised Machine Learning 
     
-    Contents:
-    - boston_housing.ipynb
-    - boston_housing.html
-    - boston_housing_FINAL.py
+Contents:
+    
+* boston_housing.ipynb
+* boston_housing.html
+* boston_housing_FINAL.py
